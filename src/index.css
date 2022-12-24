@@ -1,0 +1,12 @@
+:root {
+  --clrBackground: #ffd207;
+}
+
+body {
+  background: var(--clrBackground);
+}
+
+p {
+  margin-bottom: 5px;
+  margin-top: -5px;
+}
